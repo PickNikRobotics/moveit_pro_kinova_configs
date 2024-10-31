@@ -1,3 +1,0 @@
-[submodule "ros2_kortex"]
-	path = ros2_kortex
-	url = git@github.com:Kinovarobotics/ros2_kortex.git
